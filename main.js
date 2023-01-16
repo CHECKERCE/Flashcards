@@ -10,9 +10,8 @@ function readJSONFromFile(path) {
 
 let decks = [];
 
-
-
-decks.push(new Deck("Strukturmodelle", readJSONFromFile('cards/Strukturmodelle.json')));
+json = readJSONFromFile('cards/Strukturmodelle.json');
+decks.push(new Deck(json.title, json.cards));
 
 console.log(decks);
 
