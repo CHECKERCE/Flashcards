@@ -23,6 +23,8 @@ let yesButton = document.getElementById("yesButton");
 let noButton = document.getElementById("noButton");
 let undoButton = document.getElementById("undoButton");
 
+let notiFicationSound = new Audio("sounds/notification.wav");
+
 //variables
 let currentDeck = null;
 let currentCard = null;
@@ -43,6 +45,8 @@ initialDisplayStates = {
     undoButton: undoButton.style.display
 }
 
+undoButtonShowTime = 20000;
+
 //initalize
 //hide undo button
 undoButton.style.display = "none";
@@ -59,6 +63,7 @@ function update() {
     if (lastCardTime + timeBetweenCards.min < Date.now() / 1000) {
         //show next card
         showNextCard();
+        notiFicationSound.play();
         answered = false;
         lastCardTime = Date.now() / 1000;
     }
@@ -126,7 +131,7 @@ function answer(didKnow) {
     noButton.style.display = "none";
     timeOutsToClear.push(setTimeout(function () {
         undoButton.style.display = "none";
-    }, 10000));
+    }, undoButtonShowTime));
 }
 
 function undo() {
@@ -141,14 +146,6 @@ function undo() {
     } else {
         lastCard.rightGuessesInSuccession = lastCardRightGuessesInSuccession;
     }
-}
-
-saveDeck = function () {
-    let json = JSON.stringify(currentDeck.cards);
-    var blob = new Blob([json], {type: "application/json"});
-    var url = URL.createObjectURL(blob);
-    var a = document.createElement('a');
-    a.download = currentDeck.name + ".json";
 }
 
 currentDeck = decks[0];
