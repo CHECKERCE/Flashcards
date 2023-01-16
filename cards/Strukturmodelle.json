@@ -1,0 +1,197 @@
+[
+    {
+        "title": "Erzählverhalten",
+        "description": "Ein Erzähler kann in zwei Gestalten (vom Autor erfundene Figuren) auftreten, nämlich als Er- oder als Ich-Erzähler.\nSowohl bei der Er-Erzählung als auch bei der Ich-Erzählung muss der Standort des Erzählers bestimmt werden. Der Erzähler kann unterschiedliche Verhaltensweisen zeigen: auktoriales, personales oder neutrales Verhalten.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Innensicht",
+        "description": "bedeutet, dass der Erzähler in das Innere, in Gefühle und Gedankeneiner Figur Einblick hat",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Außensicht",
+        "description": ": bedeutet, dass der Erzähler die Figuren nur von außen sieht.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Erzählbericht",
+        "description": "umfasst alles, was nicht Figurenrede ist, und kann in unterschiedlichen Formen auftreten: Präsentation des Handlungsablaufs, von Beschreibungen (z.B. des Handlungsortes oder von Charakteren), von Reflexionen des Erzählers oder von Gedanken, Haltungen, Meinungen, Aussagen und Empfindungen der Figuren",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Figurenrede",
+        "description": "direkte oder indirekte wiedergegebene Äußerungen oder Gedanken der Figuren. Darbietungsformen der Figurenrede:",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Direkte Rede",
+        "description": "einer Figur zugeordnet und durch Anführungszeichen gekennzeichnet. Bei Wiedergabe direkter Äußerungen mehrerer Figuren erhält Textpassage eine dialogische Struktur.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Indirekte Rede",
+        "description": "Äußerungen und Gedanken werden vom Erzähler referiert (redeeinleitende Verben). Beispiel: Sie fragte sich, ob sie wirklich gehen müsse. (Konjunktiv)",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Erlebte Rede",
+        "description": "Gedanken und Empfindungen einer Figur in der 3. Person mit Präteritum und Hauptsatzstellung.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Innerer Monolog",
+        "description": "stummes Selbstgespräch einer Figur (als direkte und erlebte Rede möglich)",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Bewusstseinsstrom",
+        "description": "in ungeordneter Folge Bewusstseinsinhalte einer oder mehrerer Figuren; Versuch der Wiedergabe von Wahrnehmungen, Gedanken, Gefühle und Reflexionen einer Figur so, wie sie ins menschliche Bewusstsein fließen (quasi protokollarisch).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Konstellation",
+        "description": "die Beziehung(en) der Figuren untereinander: soziales, psychologisches und mentales Beziehungsgeflecht, dass man oft grafisch oder tabellarisch darstellen kann (Konfigurationsmatrix): Held/ Protagonist – Gegenspieler/ Antagonist – Freund/ Konfident (Vertrauter) usw.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Explizit",
+        "description": "direkt",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Implizit",
+        "description": "indirekt",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Charakterisierung",
+        "description": " Beschreibung der Figur durch ihr Äußeres, ihres sozialen Status, ihr Verhalten und Handeln.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "dynamisch oder statisch angelegte Figur",
+        "description": "Verändert sich die Figur oder ist sie gleichbleibend in ihrem Charakter?",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "komplex oder eher eindimensional konzipierte Figur",
+        "description": "Ist der Charakter der Figur mit zahlreichen oder nur wenigen Merkmalen ausgeprägt?",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "geschlossen oder um eine offen angelegte Figur",
+        "description": "Ist der Charakter der Figur nachvollziehbar oder wirkt er eher rätselhaft?",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Erzählzeit",
+        "description": "Zeitraum, den der Erzähler benötigt, um seine Geschichte zu erzählen (bzw. den Zeitraum, den man benötigt, um sie zu lesen).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Erzählte Zeit",
+        "description": "Zeitraum, den der Inhalt des Geschehens umgreift.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Zeitdeckung",
+        "description": "Erzählzeit und erzählte Zeit sind annähernd gleich (Sekundenstil).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Zeitdehnung",
+        "description": "Erzählzeit ist länger als erzählte Zeit (z.B. Wiedergabe von Bewusstseinsströmen), Zeitdehnen entspricht der Zeitlupe.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Zeitraffung",
+        "description": "Erzählzeit ist kürzer als erzählte Zeit („unwichtige“ Zeitabschnitte werden gekürzt oder ganz weggelassen).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Vorausdeutung",
+        "description": "Mittel der Abweichung vom „natürlichen zeitlichen Gang“; der Erzähler präsentiert ein in der Chronologie der Ereigniskette erst später liegendes Moment zu einem früheren Zeitpunkt.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Rückwendung",
+        "description": "Erzähler unterbricht den „jetzt-Zeitpunkt“ und greift Momente der Vergangenheit auf (z.B. um gegenwärtige Ereignisse durch den Rückgriff auf die Vergangenheit zu deuten oder zu erklären).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Lineares Erzählen",
+        "description": " der Gang der Handlung folgt sukzessiv dem Lebensweg der Figur.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Rahmenhandlung",
+        "description": "besteht aus zwei Textebenen; die erste Textebene (der Rahmen) umgibt die zweite (die Binnenhandlung)",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Parallelhandlung",
+        "description": "mehrere Haupthandlungsstränge, die sich gleichzeitig ereignen",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Montage",
+        "description": "besteht aus verschiedenen Textelementen (Briefe, Protokolle, Erzählungen, Zeitungsartikel …), die die Funktion haben, das Thema aus verschiedenen Perspektiven zu beleuchten.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Handlungsraum",
+        "description": "Raum als Bedingungsrahmen für Ereignisse und Handlungen.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Lebensraum",
+        "description": "Raum erklärt Verhalten der Figuren.",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Gedankenraum",
+        "description": "(Raum, den der Autor oder seine Figuren durch ihre Wünsche oder Träume entstehen lassen; haben oft irreale, fantastische oder märchenhafte Züge",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Stimmungsraum",
+        "description": "Raum, an den eine bestimmte die Handlung tragende Stimmung geknüpft ist: Die Nordseeküste in Theodor Storms „Der Schimmelreiter“",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Kontrastraum",
+        "description": "räumliche Gegensätze bestimmen die Handlung",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Symbolraum",
+        "description": "Raum mit einer symbolischen Bedeutung, die nicht mit seiner wirklichen Bedeutung identisch sein muss: Venedig in Thomas Manns „Tod in Venedig“ steht für Krankheit, Verfall und Tod",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Sprachebene des Erzählers/ der Figuren",
+        "description": "(stilistische Dimension): gehobener, normalsprachlicher, umgangssprachlicher, salopper, vulgärer Sprachgebrauch",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Episches Präteritum",
+        "description": "übliche Zeitform des Erzählens (von der Bildung her mit grammatischem Präteritum identisch, wobei in epischen Texten das Erzählte im Prozess des Erzähltwerdens durchaus als gegenwärtig aufgefasst werden kann).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Verben der inneren Vorgänge",
+        "description": "verschaffen Einblick in das Innenleben der Figuren (er dachte, er fühlte).",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Deiktische Zeitadverbien",
+        "description": "verweisen von einem „jetzt-Standpunkt“ auf Vergangenes, Gleichzeitiges oder Zukünftiges; Vergangenheitsbedeutung des epischen Präteritums wird aufgehoben",
+        "rightGuessesInSuccession": 0
+    },
+    {
+        "title": "Rhetorische Besonderheiten",
+        "description": "gemeint sind rhetorische Figuren, die die Wirkung eines Textes verstärken",
+        "rightGuessesInSuccession": 0
+    }
+]
