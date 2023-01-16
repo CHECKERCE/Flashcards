@@ -65,7 +65,6 @@ function update() {
         showNextCard();
         notiFicationSound.play();
         answered = false;
-        lastCardTime = Date.now() / 1000;
     }
 }
 
@@ -132,6 +131,7 @@ function answer(didKnow) {
     timeOutsToClear.push(setTimeout(function () {
         undoButton.style.display = "none";
     }, undoButtonShowTime));
+    lastCardTime = Date.now() / 1000;
 }
 
 function undo() {
