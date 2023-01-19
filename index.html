@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Flashcards</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 </head>
 <body>
     <div id="buttons">
@@ -13,9 +14,19 @@
         <button id="nextButton" onclick="next()">Nächste</button>
         <button id="noButton" onclick="answer(false)">Keine Ahnung</button>
     </div>
+
+    
+    <button class="menuButton openMenuButton" onclick="toggleMenu()"><span class="material-symbols-outlined">menu</span></button>
+    <div id ="sideMenu">
+        <button class="menuButton closeMenuButton" onclick="toggleMenu()"><span class="material-symbols-outlined">close</span></button>
+        <div id="menu">
+        </div>
+    </div>
+
     <p id="title"></p>
     <p id="description"></p>
     <script src="classes.js"></script>
     <script src="main.js"></script>
+    <script src="menu.js"></script>
 </body>
 </html>
