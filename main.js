@@ -21,7 +21,7 @@ let descriptionElement = document.getElementById("description");
 
 let yesButton = document.getElementById("yesButton");
 let noButton = document.getElementById("noButton");
-let undoButton = document.getElementById("undoButton");
+let nextButton = document.getElementById("nextButton");
 
 let notiFicationSound = new Audio("sounds/notification.wav");
 
@@ -38,18 +38,17 @@ let lastCardTime = 0;
 let answered = true;
 let lastAnswer = null;
 
-let timeOutsToClear = [];
 initialDisplayStates = {
     yesButton: yesButton.style.display,
     noButton: noButton.style.display,
-    undoButton: undoButton.style.display
+    nextButton: nextButton.style.display
 }
 
-undoButtonShowTime = 20000;
+nextButtonShowTime = 20000;
 
 //initalize
-//hide undo button
-undoButton.style.display = "none";
+//hide next button
+nextButton.style.display = "none";
 
 function update() {
     if (currentDeck === null) {
@@ -88,15 +87,6 @@ function showNextCard() {
     //show yes and no button
     yesButton.style.display = initialDisplayStates.yesButton;
     noButton.style.display = initialDisplayStates.noButton;
-    clearTimeouts();
-}
-
-function clearTimeouts() {
-    for (let i = 0; i < timeOutsToClear.length; i++) {
-        clearTimeout(timeOutsToClear[i]);
-    }
-    timeOutsToClear = [];
-    undoButton.style.display = "none";
 }
 
 function showCart(card) {
@@ -124,28 +114,15 @@ function answer(didKnow) {
     lastCardRightGuessesInSuccession = currentCard.rightGuessesInSuccession;
     lastCard = currentCard;
     currentCard = null;
-    //show undo button for 10 seconds and hide yes and no button
-    undoButton.style.display = initialDisplayStates.undoButton;
+    //show next button and hide yes and no button
+    nextButton.style.display = initialDisplayStates.nextButton;
     yesButton.style.display = "none";
     noButton.style.display = "none";
-    timeOutsToClear.push(setTimeout(function () {
-        undoButton.style.display = "none";
-    }, undoButtonShowTime));
     lastCardTime = Date.now() / 1000;
 }
 
-function undo() {
-    if (lastCard === null) {
-        //no card selected
-        console.log("no card selected");
-        return;
-    }
-    //undo count update to last card
-    if (lastAnswer) {
-        lastCard.rightGuessesInSuccession--;
-    } else {
-        lastCard.rightGuessesInSuccession = lastCardRightGuessesInSuccession;
-    }
+function next() {
+    lastCardTime = 0
 }
 
 currentDeck = decks[0];
