@@ -22,6 +22,7 @@ let descriptionElement = document.getElementById("description");
 let yesButton = document.getElementById("yesButton");
 let noButton = document.getElementById("noButton");
 let nextButton = document.getElementById("nextButton");
+let oopsButton = document.getElementById("oopsButton");
 
 let notiFicationSound = new Audio("sounds/notification.wav");
 
@@ -41,7 +42,8 @@ let lastAnswer = null;
 initialDisplayStates = {
     yesButton: yesButton.style.display,
     noButton: noButton.style.display,
-    nextButton: nextButton.style.display
+    nextButton: nextButton.style.display,
+    oopsButton: oopsButton.style.display
 }
 
 nextButtonShowTime = 20000;
@@ -49,6 +51,7 @@ nextButtonShowTime = 20000;
 //initalize
 //hide next button
 nextButton.style.display = "none";
+oopsButton.style.display = "none";
 
 function update() {
     if (currentDeck === null) {
@@ -87,6 +90,8 @@ function showNextCard() {
     //show yes and no button
     yesButton.style.display = initialDisplayStates.yesButton;
     noButton.style.display = initialDisplayStates.noButton;
+    oopsButton.style.display = "none";
+    nextButton.style.display = "none";
 }
 
 function showCart(card) {
@@ -94,6 +99,11 @@ function showCart(card) {
     //clear description so the user can't see the answer
     descriptionElement.innerHTML = "";
     currentCard = card;
+}
+
+function falseYes() {
+    oopsButton.style.display = "none";
+    lastCard.rightGuessesInSuccession = 0;
 }
 
 function answer(didKnow) {
@@ -118,6 +128,9 @@ function answer(didKnow) {
     nextButton.style.display = initialDisplayStates.nextButton;
     yesButton.style.display = "none";
     noButton.style.display = "none";
+    if (didKnow) {
+        oopsButton.style.display = initialDisplayStates.oopsButton;
+    }
     lastCardTime = Date.now() / 1000;
 }
 

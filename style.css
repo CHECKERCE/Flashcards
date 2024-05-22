@@ -47,7 +47,7 @@ body {
 #buttons button:hover {
     background-color: #000;
     color: #fff;
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 #buttons #yesButton {
@@ -56,16 +56,25 @@ body {
 
 #buttons #yesButton:hover {
     background-color: rgb(0, 80, 0);
-    transition: 0.3s;
+    transition: 0.2s;
 }
 
 #buttons #noButton {
     background-color: rgb(255, 80, 80);
 }
 
+#buttons #oopsButton {
+    background-color: rgb(255, 80, 80);
+}
+
 #buttons #noButton:hover {
     background-color: rgb(80, 0, 0);
-    transition: 0.3s;
+    transition: 0.2s;
+}
+
+#buttons #oopsButton:hover {
+    background-color: rgb(80, 0, 0);
+    transition: 0.2s;
 }
 
 .menuButton {
@@ -99,8 +108,8 @@ body {
 #sideMenu {
     position: fixed;
     top: 0;
-    left: 0;
-    width: 0px;
+    left: -200;
+    width: 200px;
     height: 100%;
     background-color: #000;
     color: #fff;
@@ -109,4 +118,12 @@ body {
     margin: 0;
     padding: 0;
     transition: 0.3s;
+}
+
+#menu {
+    width: 100%;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 3em;
+    padding: 0;
 }

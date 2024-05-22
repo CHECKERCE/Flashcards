@@ -5,10 +5,10 @@ let menuOpen = false;
 
 function toggleMenu() {
     if (menuOpen) {
-        sideMenu.style.width = "0px";
+        sideMenu.style.left = "-200px";
         menuOpen = false;
     } else {
-        sideMenu.style.width = "15%";
+        sideMenu.style.left = "0px";
         menuOpen = true;
     }
 }
