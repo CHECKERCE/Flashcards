@@ -10,8 +10,7 @@ function readJSONFromFile(path) {
 
 let decks = [];
 
-json = readJSONFromFile('cards/Periodensystem.json');
-decks.push(new Deck(json.title, json.cards));
+LoadDeck('cards/Periodensystem.json');
 
 console.log(decks);
 
@@ -52,6 +51,11 @@ nextButtonShowTime = 20000;
 //hide next button
 nextButton.style.display = "none";
 oopsButton.style.display = "none";
+
+function LoadDeck(filePath) {
+    json = readJSONFromFile(filePath);
+    decks.push(new Deck(json.title, json.cards));
+}
 
 function update() {
     if (currentDeck === null) {
@@ -137,6 +141,7 @@ function answer(didKnow) {
 function next() {
     lastCardTime = 0
 }
+
 
 currentDeck = decks[0];
 
