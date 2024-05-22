@@ -1,0 +1,595 @@
+{
+    "title": "Periodensystem",
+    "cards": [
+        {
+            "title": "1",
+            "description": "Wasserstoff (H)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "2",
+            "description": "Helium (He)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "3",
+            "description": "Lithium (Li)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "4",
+            "description": "Beryllium (Be)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "5",
+            "description": "Bor (B)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "6",
+            "description": "Kohlenstoff (C)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "7",
+            "description": "Stickstoff (N)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "8",
+            "description": "Sauerstoff (O)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "9",
+            "description": "Fluor (F)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "10",
+            "description": "Neon (Ne)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "11",
+            "description": "Natrium (Na)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "12",
+            "description": "Magnesium (Mg)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "13",
+            "description": "Aluminium (Al)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "14",
+            "description": "Silicium (Si)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "15",
+            "description": "Phosphor (P)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "16",
+            "description": "Schwefel (S)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "17",
+            "description": "Chlor (Cl)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "18",
+            "description": "Argon (Ar)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "19",
+            "description": "Kalium (K)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "20",
+            "description": "Calcium (Ca)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "21",
+            "description": "Scandium (Sc)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "22",
+            "description": "Titan (Ti)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "23",
+            "description": "Vanadium (V)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "24",
+            "description": "Chrom (Cr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "25",
+            "description": "Mangan (Mn)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "26",
+            "description": "Eisen (Fe)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "27",
+            "description": "Cobalt (Co)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "28",
+            "description": "Nickel (Ni)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "29",
+            "description": "Kupfer (Cu)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "30",
+            "description": "Zink (Zn)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "31",
+            "description": "Gallium (Ga)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "32",
+            "description": "Germanium (Ge)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "33",
+            "description": "Arsen (As)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "34",
+            "description": "Selen (Se)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "35",
+            "description": "Brom (Br)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "36",
+            "description": "Krypton (Kr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "37",
+            "description": "Rubidium (Rb)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "38",
+            "description": "Strontium (Sr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "39",
+            "description": "Yttrium (Y)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "40",
+            "description": "Zirconium (Zr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "41",
+            "description": "Niob (Nb)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "42",
+            "description": "Molybdän (Mo)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "43",
+            "description": "Technetium (Tc)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "44",
+            "description": "Ruthenium (Ru)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "45",
+            "description": "Rhodium (Rh)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "46",
+            "description": "Palladium (Pd)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "47",
+            "description": "Silber (Ag)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "48",
+            "description": "Cadmium (Cd)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "49",
+            "description": "Indium (In)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "50",
+            "description": "Zinn (Sn)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "51",
+            "description": "Antimon (Sb)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "52",
+            "description": "Tellur (Te)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "53",
+            "description": "Iod (I)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "54",
+            "description": "Xenon (Xe)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "55",
+            "description": "Caesium (Cs)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "56",
+            "description": "Barium (Ba)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "57",
+            "description": "Lanthan (La)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "58",
+            "description": "Cer (Ce)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "59",
+            "description": "Praseodym (Pr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "60",
+            "description": "Neodym (Nd)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "61",
+            "description": "Promethium (Pm)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "62",
+            "description": "Samarium (Sm)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "63",
+            "description": "Europium (Eu)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "64",
+            "description": "Gadolinium (Gd)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "65",
+            "description": "Terbium (Tb)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "66",
+            "description": "Dysprosium (Dy)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "67",
+            "description": "Holmium (Ho)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "68",
+            "description": "Erbium (Er)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "69",
+            "description": "Thulium (Tm)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "70",
+            "description": "Ytterbium (Yb)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "71",
+            "description": "Lutetium (Lu)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "72",
+            "description": "Hafnium (Hf)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "73",
+            "description": "Tantal (Ta)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "74",
+            "description": "Wolfram (W)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "75",
+            "description": "Rhenium (Re)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "76",
+            "description": "Osmium (Os)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "77",
+            "description": "Iridium (Ir)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "78",
+            "description": "Platin (Pt)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "79",
+            "description": "Gold (Au)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "80",
+            "description": "Quecksilber (Hg)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "81",
+            "description": "Thallium (Tl)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "82",
+            "description": "Blei (Pb)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "83",
+            "description": "Bismut (Bi)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "84",
+            "description": "Polonium (Po)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "85",
+            "description": "Astat (At)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "86",
+            "description": "Radon (Rn)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "87",
+            "description": "Francium (Fr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "88",
+            "description": "Radium (Ra)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "89",
+            "description": "Actinium (Ac)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "90",
+            "description": "Thorium (Th)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "91",
+            "description": "Protactinium (Pa)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "92",
+            "description": "Uran (U)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "93",
+            "description": "Neptunium (Np)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "94",
+            "description": "Plutonium (Pu)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "95",
+            "description": "Americium (Am)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "96",
+            "description": "Curium (Cm)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "97",
+            "description": "Berkelium (Bk)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "98",
+            "description": "Californium (Cf)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "99",
+            "description": "Einsteinium (Es)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "100",
+            "description": "Fermium (Fm)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "101",
+            "description": "Mendelevium (Md)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "102",
+            "description": "Nobelium (No)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "103",
+            "description": "Lawrencium (Lr)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "104",
+            "description": "Rutherfordium (Rf)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "105",
+            "description": "Dubnium (Db)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "106",
+            "description": "Seaborgium (Sg)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "107",
+            "description": "Bohrium (Bh)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "108",
+            "description": "Hassium (Hs)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "109",
+            "description": "Meitnerium (Mt)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "110",
+            "description": "Darmstadtium (Ds)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "111",
+            "description": "Roentgenium (Rg)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "112",
+            "description": "Copernicium (Cn)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "113",
+            "description": "Nihonium (Nh)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "114",
+            "description": "Flerovium (Fl)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "115",
+            "description": "Moscovium (Mc)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "116",
+            "description": "Livermorium (Lv)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "117",
+            "description": "Tenness (Ts)",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "118",
+            "description": "Oganesson (Og)",
+            "rightGuessesInSuccession": 0
+        }
+    ]
+}

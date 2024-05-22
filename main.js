@@ -10,7 +10,7 @@ function readJSONFromFile(path) {
 
 let decks = [];
 
-json = readJSONFromFile('cards/Strukturmodelle.json');
+json = readJSONFromFile('cards/Periodensystem.json');
 decks.push(new Deck(json.title, json.cards));
 
 console.log(decks);

@@ -1,0 +1,135 @@
+{
+    "title": "Buchstaben",
+    "cards" : [
+        {
+            "title": "A",
+            "description": "1",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "B",
+            "description": "2",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "C",
+            "description": "3",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "D",
+            "description": "4",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "E",
+            "description": "5",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "F",
+            "description": "6",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "G",
+            "description": "7",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "H",
+            "description": "8",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "I",
+            "description": "9",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "J",
+            "description": "10",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "K",
+            "description": "11",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "L",
+            "description": "12",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "M",
+            "description": "13",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "N",
+            "description": "14",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "O",
+            "description": "15",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "P",
+            "description": "16",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "Q",
+            "description": "17",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "R",
+            "description": "18",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "S",
+            "description": "19",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "T",
+            "description": "20",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "U",
+            "description": "21",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "V",
+            "description": "22",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "W",
+            "description": "23",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "X",
+            "description": "24",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "Y",
+            "description": "25",
+            "rightGuessesInSuccession": 0
+        },
+        {
+            "title": "Z",
+            "description": "26",
+            "rightGuessesInSuccession": 0
+        }
+    ]
+}
